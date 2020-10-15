@@ -22,3 +22,5 @@ In the project directory, execute:
 1) Deploy this project to your new created frotend environment with VS Code Teams extension.
 
 1) Upload the `Development.zip` from the *.publish* folder to Teams.
+
+1) Configure CORS for Azure Function. Learn more [here](https://www.c-sharpcorner.com/article/handling-cors-in-azure-function/)
