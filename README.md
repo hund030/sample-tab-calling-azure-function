@@ -17,15 +17,8 @@ In the project directory, execute:
 
 ## Deploy to Teams
 
-**Launch app from VS Code**
-- Prerequisites:
-  - [Add a trusted certificate for localhost](https://aka.ms/teams-toolkit-trusted-cert)
-  - [Enable Teams developer preview mode](https://aka.ms/teams-toolkit-enable-devpreview)
+1) Create a teams app project with VS Code Teams extension, and copy the ./publish/Development.env to this repository.
 
-- Navigate to the activity bar on the left side of the Visual Studio Code window.
-- Select the Run icon to display the Run and Debug view.
-- You can also use the keyboard shortcut Ctrl+Shift+D. 
+1) Deploy this project to your new created frotend environment with VS Code Teams extension.
 
-**Upload app from the Teams client**
-- You can also upload the `Development.zip` from the *.publish* folder to Teams.
-  - [Upload a custom app](https://aka.ms/teams-toolkit-uploadapp) 
+1) Upload the `Development.zip` from the *.publish* folder to Teams.
